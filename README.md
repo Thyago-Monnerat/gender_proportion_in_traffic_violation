@@ -1,4 +1,4 @@
-# ✨ EDA | Traffic Violation Patterns: A Gender-Based Analysis (RJ, 2024)
+# EDA | Traffic Violation Patterns: Analyzing Gender Proportions in Rio de Janeiro (2024)
 
 I conducted an Exploratory Data Analysis (EDA) to investigate traffic violation patterns by gender, using official 2024 data from the Rio de Janeiro government.
 
